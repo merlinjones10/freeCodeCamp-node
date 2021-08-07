@@ -4,7 +4,8 @@
   "description": "learning node",
   "keywords": [
     "node",
-    "tutorial"
+    "tutorial",
+    "freecodecamp"
   ],
   "dependencies": {
     "express": "^4.14.0"
