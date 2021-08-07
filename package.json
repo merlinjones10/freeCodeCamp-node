@@ -1,6 +1,7 @@
 {
   "author": "Merlin Jones",
   "name": "fcc-learn-npm-package-json",
+  "description" : "learning node",
   "dependencies": {
     "express": "^4.14.0"
   },
